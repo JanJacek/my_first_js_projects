@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    padding-top: 10%;
+    font-family:arial;
+    color: ghostwhite;
+    background-color:#333333;
+}
+h1{
+    color:hotpink;
+}
+
+span{
+    color:hotpink;
+    
+}
+div{max-width: 185px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+ul {
+    padding: 0 0 0 0;
+  text-align: left;
+  
+  list-style: inside;
+}
